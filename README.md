@@ -16,3 +16,6 @@
 
 ## Software Components
 * Matlab Simulink
+
+## Project Presentation
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pNNa1WVyQbw/0.jpg)](https://www.youtube.com/watch?v=pNNa1WVyQbw)
