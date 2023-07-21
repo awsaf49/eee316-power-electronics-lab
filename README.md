@@ -1,4 +1,4 @@
-# Stepper Motor Control
+# Stepper-motor Control using Simulink and Microcontroller 
 <div align=center> <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/ACT_17HS5415P1X6.png" width=300></div>
 
 ## Objective
