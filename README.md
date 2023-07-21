@@ -20,4 +20,6 @@
 * Matlab Simulink
 
 ## Video Presentation
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=pNNa1WVyQbw)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pNNa1WVyQbw/0.jpg)](https://www.youtube.com/watch?v=pNNa1WVyQbw)
